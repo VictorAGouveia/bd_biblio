@@ -12,7 +12,7 @@ Os arquivos foram estruturados da seguinte forma:
 - pasta `/services` - Contém as definições das diversas operações sobre as tabelas;
 - `db.py` - Responsável por definir a conexão com o banco de dados;
 - `main.py` - Arquivo principal, contém o programa feito que testa todas as operações criadas;
-- `criar_tabelas.py` - Arquivo que cria no banco de dados conectado as tabelas necessárias para o correto funcionamento de `main.py`, idealmente **deve ser executado antes de `main.py`**.
+- `criar_tabelas.py` - Arquivo que cria no banco de dados conectado as tabelas necessárias e alguns objetos teste para o correto funcionamento de `main.py`, idealmente **deve ser executado antes de `main.py`**.
 
 ## Estrutura do BD
 
